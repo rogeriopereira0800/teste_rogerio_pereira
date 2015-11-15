@@ -1,0 +1,2 @@
+Para rodar o programa utilize a classe Inicio e passe o nome do arquivo de log que seja usar
+no diretorio temo os arquivo patida.log
